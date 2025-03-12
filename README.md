@@ -5,12 +5,12 @@ This repository contains a structured JSON dataset of emojis, including their na
 ## 📂 Dataset Structure
 
 Each emoji entry in the emojis.json file includes the following fields:
-• `emoji`: The actual emoji character.
-• `name`: A descriptive name for the emoji.
-• `unicode`: The Unicode representation.
-• `hex`: The average hex color of the emoji.
-• `rgb`: The corresponding RGB color values.
-• `area`: A numerical ratio representing the relative area coverage of the dominant color, from 0 to 1.
+- `emoji`: The actual emoji character.
+- `name`: A descriptive name for the emoji.
+- `unicode`: The Unicode representation.
+- `hex`: The average hex color of the emoji.
+- `rgb`: The corresponding RGB color values.
+- `area`: A numerical ratio representing the relative area coverage of the dominant color, from 0 to 1.
 
 ## 📝 Sample
 
