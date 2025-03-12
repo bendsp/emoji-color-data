@@ -1,6 +1,8 @@
 # Emoji Color Data
 
-This repository contains a structured JSON dataset of emojis, including their names, Unicode values, associated colors, and additional metadata. It is useful for applications involving emoji categorization, color analysis, and data visualization.
+This repository contains a [structured JSON dataset of emojis](./emojis.json)
+
+It was compiled while working on [typeArt](https://typeart.desprets.net/) upon realizing no such dataset was easily accesible.
 
 ## 📂 Dataset Structure
 
